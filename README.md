@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1763-longest-nice-substring](https://github.com/Dhruv-chhayani/DAA/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dhruv-chhayani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1763-longest-nice-substring](https://github.com/Dhruv-chhayani/DAA/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhruv-chhayani/DAA/tree/master/0014-longest-common-prefix) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/Dhruv-chhayani/DAA/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Dhruv-chhayani/DAA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dhruv-chhayani/DAA/tree/master/0191-number-of-1-bits) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dhruv-chhayani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1763-longest-nice-substring](https://github.com/Dhruv-chhayani/DAA/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1763-longest-nice-substring](https://github.com/Dhruv-chhayani/DAA/tree/master/1763-longest-nice-substring) |
 ## Stack
 |  |
 | ------- |
