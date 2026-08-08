@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruv-chhayani/DAA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0932-beautiful-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruv-chhayani/DAA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0932-beautiful-array) |
 ## Tree
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Dhruv-chhayani/DAA/tree/master/0066-plus-one) |
 | [0372-super-pow](https://github.com/Dhruv-chhayani/DAA/tree/master/0372-super-pow) |
+| [0932-beautiful-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0932-beautiful-array) |
 ## Counting
 |  |
 | ------- |
