@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhruv-chhayani/DAA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dhruv-chhayani/DAA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Dhruv-chhayani/DAA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Dhruv-chhayani/DAA/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0324-wiggle-sort-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Dhruv-chhayani/DAA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Dhruv-chhayani/DAA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Dhruv-chhayani/DAA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Dhruv-chhayani/DAA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Dhruv-chhayani/DAA/tree/master/0217-contains-duplicate) |
 | [0324-wiggle-sort-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
