@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Dhruv-chhayani/DAA/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Dhruv-chhayani/DAA/tree/master/0027-remove-element) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Dhruv-chhayani/DAA/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/Dhruv-chhayani/DAA/tree/master/0148-sort-list) |
 ## Sorting
 |  |
