@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0324-wiggle-sort-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/Dhruv-chhayani/DAA/tree/master/0372-super-pow) |
 ## Tree
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Dhruv-chhayani/DAA/tree/master/0066-plus-one) |
+| [0372-super-pow](https://github.com/Dhruv-chhayani/DAA/tree/master/0372-super-pow) |
 ## Counting
 |  |
 | ------- |
@@ -132,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Dhruv-chhayani/DAA/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/Dhruv-chhayani/DAA/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
