@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dhruv-chhayani/DAA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Dhruv-chhayani/DAA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Dhruv-chhayani/DAA/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0324-wiggle-sort-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Dhruv-chhayani/DAA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Dhruv-chhayani/DAA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Dhruv-chhayani/DAA/tree/master/1763-longest-nice-substring) |
 ## Stack
