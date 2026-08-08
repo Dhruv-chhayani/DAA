@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Dhruv-chhayani/DAA/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Dhruv-chhayani/DAA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Dhruv-chhayani/DAA/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/Dhruv-chhayani/DAA/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dhruv-chhayani/DAA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Dhruv-chhayani/DAA/tree/master/0148-sort-list) |
+| [0283-move-zeroes](https://github.com/Dhruv-chhayani/DAA/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
