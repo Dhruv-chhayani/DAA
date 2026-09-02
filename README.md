@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/0427-construct-quad-tree) |
 | [0455-assign-cookies](https://github.com/Dhruv-chhayani/DAA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Dhruv-chhayani/DAA/tree/master/0561-array-partition) |
 | [0654-maximum-binary-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruv-chhayani/DAA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Dhruv-chhayani/DAA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Dhruv-chhayani/DAA/tree/master/0561-array-partition) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dhruv-chhayani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dhruv-chhayani/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/Dhruv-chhayani/DAA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Dhruv-chhayani/DAA/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Dhruv-chhayani/DAA/tree/master/0561-array-partition) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
@@ -337,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Dhruv-chhayani/DAA/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Dhruv-chhayani/DAA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
