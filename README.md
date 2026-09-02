@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dhruv-chhayani/DAA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/Dhruv-chhayani/DAA/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
 | ------- |
