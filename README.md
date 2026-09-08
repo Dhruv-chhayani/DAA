@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Dhruv-chhayani/DAA/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dhruv-chhayani/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dhruv-chhayani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dhruv-chhayani/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dhruv-chhayani/DAA/tree/master/0561-array-partition) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dhruv-chhayani/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dhruv-chhayani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dhruv-chhayani/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Dhruv-chhayani/DAA/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Dhruv-chhayani/DAA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dhruv-chhayani/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
