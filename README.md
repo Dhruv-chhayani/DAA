@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0932-beautiful-array) |
 | [0942-di-string-match](https://github.com/Dhruv-chhayani/DAA/tree/master/0942-di-string-match) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dhruv-chhayani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dhruv-chhayani/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dhruv-chhayani/DAA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Dhruv-chhayani/DAA/tree/master/0561-array-partition) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dhruv-chhayani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dhruv-chhayani/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/Dhruv-chhayani/DAA/tree/master/0372-super-pow) |
 | [0932-beautiful-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
+| [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Dhruv-chhayani/DAA/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Dhruv-chhayani/DAA/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
@@ -351,8 +355,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Dhruv-chhayani/DAA/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
 ## Counting Sort
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Dhruv-chhayani/DAA/tree/master/0561-array-partition) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
