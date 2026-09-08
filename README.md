@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dhruv-chhayani/DAA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Dhruv-chhayani/DAA/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/0654-maximum-binary-tree) |
+| [0860-lemonade-change](https://github.com/Dhruv-chhayani/DAA/tree/master/0860-lemonade-change) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruv-chhayani/DAA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/Dhruv-chhayani/DAA/tree/master/0932-beautiful-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Dhruv-chhayani/DAA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Dhruv-chhayani/DAA/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Dhruv-chhayani/DAA/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
