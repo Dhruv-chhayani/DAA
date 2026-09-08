@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Dhruv-chhayani/DAA/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dhruv-chhayani/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Dhruv-chhayani/DAA/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dhruv-chhayani/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Dhruv-chhayani/DAA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Dhruv-chhayani/DAA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 ## Bucket Sort
 |  |
