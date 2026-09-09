@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruv-chhayani/DAA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhruv-chhayani/DAA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dhruv-chhayani/DAA/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Dhruv-chhayani/DAA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3537-fill-a-special-grid](https://github.com/Dhruv-chhayani/DAA/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3719-longest-balanced-subarray-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Dhruv-chhayani/DAA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1763-longest-nice-substring](https://github.com/Dhruv-chhayani/DAA/tree/master/1763-longest-nice-substring) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhruv-chhayani/DAA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Dhruv-chhayani/DAA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhruv-chhayani/DAA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Dhruv-chhayani/DAA/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dhruv-chhayani/DAA/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Dhruv-chhayani/DAA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Bucket Sort
 |  |
 | ------- |
