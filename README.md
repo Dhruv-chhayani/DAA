@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dhruv-chhayani/DAA/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Dhruv-chhayani/DAA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3537-fill-a-special-grid](https://github.com/Dhruv-chhayani/DAA/tree/master/3537-fill-a-special-grid) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhruv-chhayani/DAA/tree/master/0268-missing-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/Dhruv-chhayani/DAA/tree/master/1382-balance-a-binary-search-tree) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dhruv-chhayani/DAA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Linked List
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Dhruv-chhayani/DAA/tree/master/0942-di-string-match) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dhruv-chhayani/DAA/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Dhruv-chhayani/DAA/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhruv-chhayani/DAA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dhruv-chhayani/DAA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
 |  |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dhruv-chhayani/DAA/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Dhruv-chhayani/DAA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bucket Sort
 |  |
 | ------- |
