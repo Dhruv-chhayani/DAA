@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dhruv-chhayani/DAA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhruv-chhayani/DAA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Dhruv-chhayani/DAA/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [3537-fill-a-special-grid](https://github.com/Dhruv-chhayani/DAA/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3719-longest-balanced-subarray-i) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Dhruv-chhayani/DAA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Dhruv-chhayani/DAA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhruv-chhayani/DAA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Dhruv-chhayani/DAA/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 ## Bucket Sort
 |  |
 | ------- |
