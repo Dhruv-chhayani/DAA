@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dhruv-chhayani/DAA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/Dhruv-chhayani/DAA/tree/master/0942-di-string-match) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Dhruv-chhayani/DAA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Dhruv-chhayani/DAA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Dhruv-chhayani/DAA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Dhruv-chhayani/DAA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/Dhruv-chhayani/DAA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/Dhruv-chhayani/DAA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Bucket Sort
 |  |
 | ------- |
