@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/Dhruv-chhayani/DAA/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dhruv-chhayani/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Dhruv-chhayani/DAA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhruv-chhayani/DAA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Dhruv-chhayani/DAA/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Dhruv-chhayani/DAA/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 ## Bucket Sort
 |  |
 | ------- |
