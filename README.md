@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/Dhruv-chhayani/DAA/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2706-buy-two-chocolates](https://github.com/Dhruv-chhayani/DAA/tree/master/2706-buy-two-chocolates) |
 | [3537-fill-a-special-grid](https://github.com/Dhruv-chhayani/DAA/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3719-longest-balanced-subarray-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhruv-chhayani/DAA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2578-split-with-minimum-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2578-split-with-minimum-sum) |
+| [2706-buy-two-chocolates](https://github.com/Dhruv-chhayani/DAA/tree/master/2706-buy-two-chocolates) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dhruv-chhayani/DAA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dhruv-chhayani/DAA/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2706-buy-two-chocolates](https://github.com/Dhruv-chhayani/DAA/tree/master/2706-buy-two-chocolates) |
 ## Bucket Sort
 |  |
 | ------- |
