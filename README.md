@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Dhruv-chhayani/DAA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Dhruv-chhayani/DAA/tree/master/2027-minimum-moves-to-convert-string) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Dhruv-chhayani/DAA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Dhruv-chhayani/DAA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
 ## Trie
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhruv-chhayani/DAA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Dhruv-chhayani/DAA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/Dhruv-chhayani/DAA/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Dhruv-chhayani/DAA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Dhruv-chhayani/DAA/tree/master/0976-largest-perimeter-triangle) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Dhruv-chhayani/DAA/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
