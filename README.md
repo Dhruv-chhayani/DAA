@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dhruv-chhayani/DAA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruv-chhayani/DAA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/Dhruv-chhayani/DAA/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Counting
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Dhruv-chhayani/DAA/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruv-chhayani/DAA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bucket Sort
 |  |
 | ------- |
