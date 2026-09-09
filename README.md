@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2864-maximum-odd-binary-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2864-maximum-odd-binary-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3875-construct-uniform-parity-array-i) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Counting
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/3745-maximize-expression-of-three-elements) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Bucket Sort
 |  |
 | ------- |
