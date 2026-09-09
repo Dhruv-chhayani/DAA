@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Dhruv-chhayani/DAA/tree/master/1763-longest-nice-substring) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Dhruv-chhayani/DAA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Dhruv-chhayani/DAA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2578-split-with-minimum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Dhruv-chhayani/DAA/tree/master/2706-buy-two-chocolates) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Dhruv-chhayani/DAA/tree/master/3074-apple-redistribution-into-boxes) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Dhruv-chhayani/DAA/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Merge Sort
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruv-chhayani/DAA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Dhruv-chhayani/DAA/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dhruv-chhayani/DAA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/0347-top-k-frequent-elements) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Dhruv-chhayani/DAA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/Dhruv-chhayani/DAA/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Dhruv-chhayani/DAA/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Dhruv-chhayani/DAA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Dhruv-chhayani/DAA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Bucket Sort
 |  |
 | ------- |
