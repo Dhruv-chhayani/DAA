@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dhruv-chhayani/DAA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Dhruv-chhayani/DAA/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/Dhruv-chhayani/DAA/tree/master/2706-buy-two-chocolates) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruv-chhayani/DAA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3537-fill-a-special-grid](https://github.com/Dhruv-chhayani/DAA/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv-chhayani/DAA/tree/master/3719-longest-balanced-subarray-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-query-kth-smallest-trimmed-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2343-query-kth-smallest-trimmed-number) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dhruv-chhayani/DAA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2864-maximum-odd-binary-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruv-chhayani/DAA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Trie
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2697-lexicographically-smallest-palindrome](https://github.com/Dhruv-chhayani/DAA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2706-buy-two-chocolates](https://github.com/Dhruv-chhayani/DAA/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/Dhruv-chhayani/DAA/tree/master/2864-maximum-odd-binary-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruv-chhayani/DAA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Dhruv-chhayani/DAA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruv-chhayani/DAA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dhruv-chhayani/DAA/tree/master/0918-maximum-sum-circular-subarray) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Dhruv-chhayani/DAA/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Queue
 |  |
 | ------- |
